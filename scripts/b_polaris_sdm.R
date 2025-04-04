@@ -11,7 +11,6 @@ library(terra)
 library(geodata)
 library(predicts)
 
-setwd("/Users/alexandrebeauchemin/Desktop/sdm_tests")
 
 # Load climate data
 bioclim_data <- worldclim_global(var = "bio",
