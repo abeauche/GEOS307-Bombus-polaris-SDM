@@ -20,6 +20,9 @@
 # TIF files for climate data
 .tif
 
+# Climate data
+data/climate/
+
 # RStudio files
 .Rproj.user/
 .Rproj.user
