@@ -102,3 +102,4 @@ outputs/scrap/*
 
 # Ignore hypothesis outputs
 outputs/hypothesis/*
+data/gadm/gadm36_adm0_r3_pk.rds
