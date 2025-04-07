@@ -23,6 +23,9 @@
 # Climate data
 data/climate/
 
+# Worldview data
+data/gadm/
+
 # RStudio files
 .Rproj.user/
 .Rproj.user
